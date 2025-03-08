@@ -4,9 +4,25 @@ This repository contains a collection of custom rules for the Cursor IDE to help
 
 ## How to Use
 
+### First-Time Installation
+
 1. Clone this repository or download the `.mdc` files
-2. Create a `.cursor/rules` folder in your project if it doesn't exist
-3. Copy the desired `.mdc` files to your project's `.cursor/rules` folder
+2. Run the installation script:
+   - Windows: `.\install.ps1`
+   - Mac/Linux: `chmod +x install.sh && ./install.sh`
+
+Alternatively, you can manually create a `.cursor/rules` folder in your project and copy the desired `.mdc` files.
+
+### Updating Existing Rules
+
+If you've already installed these rules and want to update to the latest version:
+
+1. Pull the latest changes or download the latest release
+2. Run the update script:
+   - Windows: `.\update.ps1`
+   - Mac/Linux: `chmod +x update.sh && ./update.sh`
+
+The update script will only replace rules that have changed and add new ones, preserving any custom rules you may have created.
 
 ## Available Rules
 
