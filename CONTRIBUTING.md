@@ -58,12 +58,9 @@ Specific guidelines to follow when this rule applies:
 
 If you need assistance with creating a rule or have questions about the contribution process:
 
-- Email: [brian@justdrops.xyz](mailto:brian@justdrops.xyz)
-- GitHub: Message me directly on GitHub
+- Your AI will know how to do it, just ask for help. "Can you walk through creating a new file for *cursor\rules folder and will you make a new rule like “team-notes.md” for team members and use a detailed outline that explains after every change we have to update the team-notes.md ... and before every edit team must check the notes again, this will help with cold starts, quick starts and documenting project structure, dependencies etc. be concise make sure the team analyzes structure, dependencies, conflicts and works cohesively during development 
 
-## Custom Rule Requests
 
-If you have an idea for a rule but don't have the time or expertise to create it yourself, feel free to request it by opening an issue or contacting me directly. I'm happy to consider creating custom rules that would benefit the community.
 
 ## Code of Conduct
 
