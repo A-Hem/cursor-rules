@@ -56,20 +56,14 @@ The `rul3s.mdc` file contains a framework for creating your own rules, including
 - Tips for effective rules
 - Main workflow template for editing files
 
-## Need Help or Custom Rules?
 
-If you need assistance with these rules or would like custom rules tailored to your specific needs:
 
-- **Email**: [brian@justdrops.xyz](mailto:brian@justdrops.xyz)
-- **GitHub**: Message me directly on GitHub
-
-I'm happy to help with implementation, answer questions, or create custom rule sets for your specific development workflow or technology stack.
 
 ## DigitalOcean
 
 The DigitalOcean-specific rules provide guidance for deploying applications to DigitalOcean's cloud platform. If you're planning to use DigitalOcean, you can get $200 in free credit for 60 days by signing up with this referral link:
 
-<a href="https://www.digitalocean.com/?refcode=d5a4da02539a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+https://www.digitalocean.com/?refcode=d5a4da02539a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge
 
 ## License
 
